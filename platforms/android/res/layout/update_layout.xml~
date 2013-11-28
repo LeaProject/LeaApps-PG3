@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dip"
+    android:background="@drawable/widget" >
+
+    <TextView
+        android:id="@+id/update"
+        style="@android:style/TextAppearance.Medium"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_margin="4dip"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="Brak dostępu do internetu!" >
+    </TextView>
+<ImageView
+android:name="@+id/image_in_widget"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:src="@drawable/icon" 
+/>
+
+</LinearLayout>

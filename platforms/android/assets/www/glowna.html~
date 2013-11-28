@@ -1,0 +1,7 @@
+	<link rel="stylesheet" href="css/style.css"  type="text/css" />
+<a href="klasy.html" rel="external"> <div id="menu" class="white">Plan lekcji</div></a>
+<a href="dziennik.html" rel="external"> <div id="menu" class="white"> E-Dziennik</div></a>
+<a href="zastepstwa.html" rel="external"> <div id="menu" class="white">Zastępstwa</div></a>
+<a href="czat.html" rel="external"> <div id="menu" class="white">Czat</div></a>
+<a href="kontakt.html" rel="external"> <div id="menu" class="white">Kontakt</div></a>
+<a href="chanelog.html" rel="external"> <div id="menu" class="white">ChaneLog</div></a><p>
